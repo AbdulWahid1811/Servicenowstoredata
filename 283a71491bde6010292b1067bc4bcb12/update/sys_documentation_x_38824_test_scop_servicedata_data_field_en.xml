@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="data_field" label="Data field" language="en" table="x_38824_test_scop_servicedata">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>data_field</element>
+            <help/>
+            <hint/>
+            <label>Data field</label>
+            <language>en</language>
+            <name>x_38824_test_scop_servicedata</name>
+            <plural>Data fields</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-11 11:36:13</sys_created_on>
+            <sys_id>fe30428d1bde6010292b1067bc4bcb95</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Data field</sys_name>
+            <sys_package display_value="Test scop" source="x_38824_test_scop">283a71491bde6010292b1067bc4bcb12</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test scop">283a71491bde6010292b1067bc4bcb12</sys_scope>
+            <sys_update_name>sys_documentation_x_38824_test_scop_servicedata_data_field_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-11 11:36:13</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,3 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="ServiceData" max_length="40" name="x_38824_test_scop_servicedata" type="collection"/>
+    <element extends="task" label="ServiceData" max_length="40" name="x_38824_test_scop_servicedata" type="collection">
+        <element label="Data field" max_length="40" name="data_field" type="string"/>
+    </element>
 </database>
